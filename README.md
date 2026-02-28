@@ -14,12 +14,12 @@ This research was supported by the **TÜBİTAK 2209-A** grant. It focuses on ana
 
 ## Documentation
 The complete research report, including methodology details and statistical findings, can be found here:
-*[📄 View Full Project Report (PDF)](./tubitak_2209_A.pdf)
+*[ View Full Project Report (PDF)](./tubitak_2209_A.pdf)
 
 
 ---
 
-# İklim Değişikliği Etki Analizi | TÜBİTAK 2209-A Araştırma Projesi 🌍
+# İklim Değişikliği Etki Analizi | TÜBİTAK 2209-A Araştırma Projesi 
 
 ## Proje Özeti
 Bu araştırma, **TÜBİTAK 2209-A** üniversite öğrencileri araştırma projeleri desteği kapsamında yürütülmüştür. Çalışma, karmaşık iklim verilerini analiz ederek uzun vadeli kalıpları belirlemeye ve gelecekteki çevresel etkileri öngörmeye odaklanmaktadır.
@@ -35,4 +35,4 @@ Bu araştırma, **TÜBİTAK 2209-A** üniversite öğrencileri araştırma proje
 
 ## Dokümantasyon
 Metodoloji detaylarını ve istatistiksel bulguları içeren tam araştırma raporuna buradan ulaşabilirsiniz:
-*[📄 Tam Araştırma Raporunu Görüntüle (PDF)](./tubitak_2209_A.pdf)
+*[ Tam Araştırma Raporunu Görüntüle (PDF)](./tubitak_2209_A.pdf)
