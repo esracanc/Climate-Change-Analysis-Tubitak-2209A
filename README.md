@@ -14,7 +14,8 @@ This research was supported by the **TÜBİTAK 2209-A** grant. It focuses on ana
 
 ## Documentation
 The complete research report, including methodology details and statistical findings, can be found here:
-*[📄 View Full Project Report (PDF)](.tubitak_2209_A.pdf)
+*[📄 View Full Project Report (PDF)](./tubitak_2209_A.pdf)
+
 
 ---
 
