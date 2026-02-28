@@ -14,7 +14,7 @@ This research was supported by the **TÜBİTAK 2209-A** grant. It focuses on ana
 
 ## Documentation
 The complete research report, including methodology details and statistical findings, can be found here:
-*[📄 View Full Project Report (PDF)](./esra_can_tübitak_2209_A.pdf)
+*[📄 View Full Project Report (PDF)](.tubitak_2209_A.pdf)
 
 ---
 
@@ -34,4 +34,4 @@ Bu araştırma, **TÜBİTAK 2209-A** üniversite öğrencileri araştırma proje
 
 ## Dokümantasyon
 Metodoloji detaylarını ve istatistiksel bulguları içeren tam araştırma raporuna buradan ulaşabilirsiniz:
-*[📄 Tam Araştırma Raporunu Görüntüle (PDF)](./esra_can_tübitak_2209_A.pdf)
+*[📄 Tam Araştırma Raporunu Görüntüle (PDF)](./tubitak_2209_A.pdf)
